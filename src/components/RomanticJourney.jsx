@@ -708,7 +708,7 @@ export const RomanticJourney = ({ onComplete }) => {
                 className="font-serif italic text-2xl sm:text-3xl font-bold mt-4 mb-2 flex items-center justify-center gap-2"
               >
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#2C1D11] via-[#78350F] to-[#C2410C]">
-                  Aww i miss youu &lt;3
+                  Hi sarsor this is your gift babygirl ♥️
                 </span>
                 <span className="not-italic text-2xl select-none">🥺💖</span>
               </motion.h3>
@@ -816,7 +816,7 @@ export const RomanticJourney = ({ onComplete }) => {
                   <span className="not-italic select-none">🎬</span>
                 </h2>
                 <p className="text-amber-800 text-xs sm:text-sm font-bold tracking-wide">
-                  you're the naruto to my hinata. 🍥❤️
+                  you are my hinata 🍥❤️
                 </p>
               </motion.div>
 
@@ -1020,7 +1020,7 @@ export const RomanticJourney = ({ onComplete }) => {
                 transition={{ delay: 0.6 }}
                 className="text-[#78350F] text-sm sm:text-base font-medium max-w-xs leading-relaxed mb-8 italic"
               >
-                "Thank you for completing this journey with me. You make every ordinary day feel magical."
+                "Thank you my queen and my princess for always being here for me"
               </motion.p>
 
               {/* Action Buttons */}
